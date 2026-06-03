@@ -1,2 +1,9 @@
 # python-learning
-Python practice projects and exercises
+Python Learning
+
+My Python learning journey following CS50P.
+
+Contents:
+- Week 0
+- Week 1
+- Future projects
